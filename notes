@@ -1,0 +1,26 @@
+Phase 0:
+a. change carbook to Kapil'scab
+b. link list of cars dislay
+c. remove details
+d. change text "remove....." to kapil's number
+
+Phase 1:
+    User Portal
+        a. enable filters and display available cars
+        b. book now button feature with popup
+        c. book now- get user details(name, mobile, email, add preview details)
+        d. booking request sent- notification
+
+    
+    Admin portal
+        a. Add vehicle cols- name, type, fuel type, price, number, owner name, color, add photos
+        b. edit button for added vehicles > delete and update vehicle
+        c. manage notifications for booking confirmations
+        d. edit availability of vehicles
+
+
+
+Phase 2:
+    Admin Portal
+        a. Create vehicle fuel price type price mapping
+        b. calendar for vehicles.
